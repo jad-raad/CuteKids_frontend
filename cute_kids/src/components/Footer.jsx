@@ -10,14 +10,16 @@ const Footer = () => {
             <p className="text-sm">Quality Clothing for Kids</p>
           </div>
           <div>
-            <h2 className="text-xl font-bold mb-4">Visit Us</h2>
-            <p>Tyre Store:</p>
-            <p>Nabatiyeh Store:</p>
+            <h2 className="text-xl font-bold mb-4 text-center">Visit Us</h2>
+            <p>Tyre Store: Abu Deeb Main Street</p>
+            <p>Nabatiyeh Store: Nmairiyeh Main Street</p>
           </div>
           <div>
-            <h2 className="text-xl font-bold mb-4">Contact Us</h2>
+
+            <h2 className="text-xl font-bold mb-4 text-center">Contact Us</h2>
             <p>Email: cutekids@gmail.com</p>
-            <p>Phone: +XX XXXX XXXX</p>
+            <p>Phone: +961 76 638 123</p>
+
           </div>
         </div>
         <div className="mt-8 text-center">
