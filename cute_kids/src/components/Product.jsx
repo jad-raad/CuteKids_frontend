@@ -22,6 +22,11 @@ const Product = ({ product }) => {
           )
         ))}
       </div>
+      <div>
+      <button class="bg-gray-500 hover:bg-green-500 text-white font-bold py-2 px-4 rounded-full mt-3">
+       add to Cart
+      </button>
+      </div>
     </div>
   );
 };
